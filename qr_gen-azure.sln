@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "qr_gen-azure", "LearningAzFu\qr_gen-azure.csproj", "{2197AB0D-BA40-400B-A54B-4BCAAEC8D363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2197AB0D-BA40-400B-A54B-4BCAAEC8D363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2197AB0D-BA40-400B-A54B-4BCAAEC8D363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2197AB0D-BA40-400B-A54B-4BCAAEC8D363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2197AB0D-BA40-400B-A54B-4BCAAEC8D363}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F17D483A-8CCE-427F-940F-321158A57C68}
+	EndGlobalSection
+EndGlobal
